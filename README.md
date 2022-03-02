@@ -1,5 +1,5 @@
 # Data-Science-Projects
-This will be a hub where I keep data analysis, data science, and machine learning code.
+This will be a hub where I keep data analysis, data science, and machine learning code. About half of this code is EDA, so lots of graphing with Matplotlib and Seaborn.
 
 Text Feedback and Classification - This is a Kaggle project where essays are provided and the objective is to detect which parts of the essary are present (i.e., thesis, defense, conclusion, etc.)
 
